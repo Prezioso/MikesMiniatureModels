@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#hedder{
+	width:742px;
+	height:23px;
+	background-color:#455855;
+	text-align:right;
+	color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
+#login{
+	background-color:#62988e;
+	border:none;
+	color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+}
+#login_bt{
+	background-color:#62988e;
+	color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	border:solid;
+	border-width:1px;
+}
+#main{
+	width:742px;
+	height:267px;
+	background-color:#8c9b99;
+	color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
